@@ -1,0 +1,75 @@
+.body{
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 510;
+    background-origin: padding-box;
+    
+    
+}
+
+.priodic{
+
+    background-color: #fffa65 ;
+    font-size: 70px;
+    font-family: sans-serif;
+} 
+
+.name{
+    
+    font-weight: bold;
+    font-family: sans-serif;
+    
+    
+}
+
+h3.name::first-letter{
+    font-size: 400%;
+    color: #ef5777;    
+    text-decoration: underline;
+    
+}
+
+
+    
+    
+
+.h1{
+    background-color: #f96  ;
+   
+}
+
+.h2{
+    background-color: #e6e6fa;
+}
+
+.h3{
+    background-color: plum;
+}
+
+.h4{
+    background-color: #90c7ff;
+}
+
+.h5{
+    background-color: #fff28e;
+}
+.h6{
+    background-color: #c79810;
+}
+
+.h7{
+    background-color: #cdeb8b;
+}
+
+.h8{
+    background-color: #fceff0;
+}
+
+.h9{
+    background-color:#ebdca9;
+}
+
+.h10{
+    background-color: #fff; ;
+}
+
